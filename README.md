@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Keegan!
 
-📖 What I have learnt in the last 3 months:
+On a self-learning journey, exploring paths and seeing what they have to offer
+
+📖 What I have been working on for the past 3 months:
 1. I signed up for 3 courses on the Interaction Design Foundation platform
   * Design Thinking: The Ultimate Guide.
   * User Experience: The Beginner's Guide.
