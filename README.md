@@ -13,10 +13,12 @@ On a self-learning journey, exploring paths and seeing what they have to offer
  -  https://github.com/keeganedwin/openclassrooms
  -  https://github.com/keeganedwin/keeganedwin-openclassrooms-2
 4. Proceeding this I moved to the https://www.theodinproject.com/ and continued from where I left off - I started the foundation course, passed git basics and setting up github until HTML; personally did not find their content easy to grasp as opposed to OC - and continued until I reached "Alignment".
- - The project I worked on: https://github.com/keeganedwin/odin-recipes
+
+  📑 The project I worked on: https://github.com/keeganedwin/odin-recipes
+
 5. I have also been learning to use Figma and have only come as far as creating low-fidelity wireframes.
 
-I have also been working under the guidance of https://github.com/phantasmagoriadigital and https://github.com/esthercheran, thus am
+I have been working under the guidance of https://github.com/phantasmagoriadigital and https://github.com/esthercheran, thus am
 
 🌱 Currently learning to:
 - Build components
