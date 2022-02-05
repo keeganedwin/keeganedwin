@@ -18,9 +18,7 @@ On a self-learning journey, exploring paths and seeing what they have to offer
 
 5. I have also been learning to use Figma and have only come as far as creating low-fidelity wireframes.
 
-I have been working under the guidance of https://github.com/phantasmagoriadigital and https://github.com/esthercheran, thus am
-
 🌱 Currently learning to:
-- Build components
-- Use Flexboxes and Alignments
+- Build components on Figma
+- Use Flexboxes and Alignments - The Odin Project
 
