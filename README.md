@@ -10,7 +10,8 @@
 4. I have also been learning to use Figma and have only come as far as creating low-fidelity wireframes.
 
 I have also been working under the guidance of https://github.com/phantasmagoriadigital and thus am
-🌱 Currently learning to
+
+🌱 Currently learning to:
 - Build components
 - Use Flexboxes and Alignments
 
