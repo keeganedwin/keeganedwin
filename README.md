@@ -9,4 +9,4 @@ I've been interning under @esthercheran at Hyma, working on and helping build th
   * Alongside creating the documentaion, theming and hand-off pages of component files
 
   📑 Current project
-  Building a UI Kit using the Headless Design System
+  Building a UI Kit
