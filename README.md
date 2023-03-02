@@ -1,12 +1,12 @@
-### Hi there 👋 I'm Keegan!
+### Hi there 👋, I'm Keegan!
 ---
-I'm an intern working as a Design Systems Designer
+Currently working on the Chakra UI - completing components and migrating the styles to Tokens Studio
 
-📖 What I have been working on for the past year:
+ 📑 Current personal project:
+  Building a tokenised UI Kit
 
-I've been interning under @esthercheran at Hyma, working on and helping build the Headless Design System
+📖 What I have otherwise been working on for the past year:
+
+I've interned under @esthercheran at Hyma, working on and helping build the Headless Design System
   * Predominantly work with Figma, designing components and tokenising them
-  * Alongside creating the documentaion, theming and hand-off pages of component files
-
-  📑 Current project
-  Building a UI Kit
+  * Alongside creating the documentaion, theming and hand-off pages of the files
